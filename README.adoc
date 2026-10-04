@@ -3,6 +3,20 @@
 :toc:
 
 
+== Fork provenance
+
+[IMPORTANT]
+====
+This repository is a GitHub fork of https://github.com/yuriskinfo/awesome-Fortinet[`yuriskinfo/awesome-Fortinet`].
+
+* *Original authorship:* Yuri Slobodyanyuk / `yuriskinfo` and upstream contributors.
+* *Local purpose:* retain a local reference copy and use the repository as an upstream-derived governance pilot. This fork does not claim original authorship of the resource catalog.
+* *Local modifications:* no local commits were observed after this fork was created. The current local head, `ac36c663739af9f911906a66296f534d1529acad`, is an upstream-authored commit.
+* *Sync model:* snapshot, not automatic tracking. The upstream repository has advanced since this local snapshot, so freshness must be checked against upstream before relying on the catalog as current.
+* *License:* MIT. See `LICENSE`.
+====
+
+
 == Help
 Places to get help.
 
